@@ -1,4 +1,4 @@
-AllCops:
+.rubocop.ymlAllCops:
   NewCops: enable
 inherit_gem:
   rubocop-github:
